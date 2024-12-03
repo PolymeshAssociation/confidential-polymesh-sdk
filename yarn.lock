@@ -2302,10 +2302,10 @@
   dependencies:
     "@polymeshassociation/signing-manager-types" "^3.2.0"
 
-"@polymeshassociation/polymesh-sdk@26.2.0":
-  version "26.2.0"
-  resolved "https://registry.yarnpkg.com/@polymeshassociation/polymesh-sdk/-/polymesh-sdk-26.2.0.tgz#09217c23b9a390c7a3adb198494bf11af1b182d3"
-  integrity sha512-1zdaaAWVu5PgcajMokgzcsf0vjQsaC9v+ILu193JAfZbwKSEPx4y+KSsK0kehMF93tm+K1jU3uMYWsefHgwpsg==
+"@polymeshassociation/polymesh-sdk@27.0.0":
+  version "27.0.0"
+  resolved "https://registry.yarnpkg.com/@polymeshassociation/polymesh-sdk/-/polymesh-sdk-27.0.0.tgz#7d193fa7c46de01fbd55d5335a23724d9a6eb4b9"
+  integrity sha512-eMg/A6U+TIzGH6vcnepT7d9Y7se8pHLpRaPoO8goUx4HvTm5oB9qnlqwhcwqNLxzVlC33JavTTr2xQtck1Zo0g==
   dependencies:
     "@apollo/client" "^3.8.1"
     "@polkadot/api" "11.2.1"
@@ -2320,7 +2320,6 @@
     iso-7064 "^1.1.0"
     json-stable-stringify "^1.0.2"
     lodash "^4.17.21"
-    patch-package "^8.0.0"
     semver "^7.5.4"
     websocket "^1.0.34"
 
